@@ -5,6 +5,6 @@ some IOT lights and stuff
 | Name                                  | Purpose                                           | 
 | :--                                   | :--                                               |
 |[devices](electron)                    | Microcontroller code for all the devices          |
-|[server](services)                     | Serves Public API for contrllling the stuff       |
+|[server](services)                     | Serves Public API for controlling the stuff       |
 
 

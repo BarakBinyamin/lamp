@@ -1,2 +1,2 @@
 # Server
-Serves Public API for contrllling the stuff
+Serves Public API for controlling the stuff
