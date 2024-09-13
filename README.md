@@ -1,8 +1,8 @@
 # lamps
 some IOT lights and stuff
 
-<img src="lamps.drawio.png"/>
-
+<img src="docs/lamps.drawio.png"/>
+ 
 # Project Directory
 | Name                                  | Purpose                                           | 
 | :--                                   | :--                                               |
