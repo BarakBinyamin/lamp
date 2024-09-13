@@ -1,7 +1,6 @@
 # lamps
 some IOT lights and stuff
 
-## Directory
 # Project Directory
 | Name                                  | Purpose                                           | 
 | :--                                   | :--                                               |
